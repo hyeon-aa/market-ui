@@ -1,0 +1,15 @@
+footer {
+  width: 100vw;
+  position: fixed;
+  bottom: 0px;
+}
+
+.footer-bar {
+  display: flex;
+  background-color: gray;
+  justify-content: space-between;
+}
+
+.footer-bar img {
+  width: 20px;
+}

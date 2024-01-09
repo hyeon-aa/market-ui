@@ -1,0 +1,71 @@
+main {
+  margin-top: 20px;
+}
+
+.buyer-chat {
+  justify-content: space-between;
+  display: flex;
+  width: 100vw;
+  margin-bottom: 20px;
+}
+
+.buyer-time {
+  padding-top: 20px;
+  padding-left: 170px;
+}
+
+/* #buyer-msg {
+  background-color: orange;
+  border-radius: 80px;
+  padding: 10px 10px 10px 10px;
+  margin-right: 10px;
+} */
+
+#chatdiv0 {
+  background-color: orange;
+  border-radius: 80px;
+  padding: 10px 10px 10px 10px;
+  margin-right: 10px;
+}
+
+.seller-img {
+  width: 30px;
+}
+
+.seller-msg {
+  background-color: gray;
+  border-radius: 80px;
+  padding: 10px 10px 10px 10px;
+}
+
+.seller-time {
+  padding-top: 20px;
+}
+
+.seller-chat {
+  display: flex;
+  width: 100vw;
+}
+
+.calender-img {
+  width: 20px;
+}
+
+.promise-info {
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.confirm-promise {
+  margin: 20px 20px 20px 20px;
+  width: 250px;
+  height: 50px;
+  border: 2px solid black;
+  padding: 10px 10px 10px 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.promise-day {
+  display: flex;
+}
